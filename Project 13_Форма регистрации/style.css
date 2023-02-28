@@ -1,0 +1,61 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+.background {
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #F5F5F5;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    position: relative;
+    width: 420px;
+    height: 426px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(40, 41, 61, 0.08), 0px 20px 32px rgba(96, 97, 112, 0.24);
+    border-radius: 20px;
+}
+.form-title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 24px;
+}
+.form-control input {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    font-family: 'Nunito';
+    color: #7B8E98;
+    margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+
+
